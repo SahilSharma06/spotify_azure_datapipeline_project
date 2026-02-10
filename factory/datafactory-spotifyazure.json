@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-spotifyazure",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "701f5e99-a306-418e-9bf8-7460f9bd67e1",
+		"tenantId": "54c121f0-32f6-40bf-ad36-a976120fbdc3"
+	}
+}
