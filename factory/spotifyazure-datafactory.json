@@ -1,0 +1,9 @@
+{
+	"name": "spotifyazure-datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dfbd6f12-e280-49ad-a741-7c965015f502",
+		"tenantId": "a70262cf-e161-43d9-b663-6459a08433c4"
+	}
+}
